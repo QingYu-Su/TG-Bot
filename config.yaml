@@ -1,0 +1,14 @@
+TOKEN: "tg-bot-token"
+USER:
+  - "user id1"
+  - "user id2"
+LOG_LEVEL: "info"
+PORT: 9999
+RECEIVERS:
+  - NAME: "Receiver1"
+    PATH: "/api/abc"
+    PARTS: ["part1", "part2"]
+  - NAME: "Receiver2"
+    PATH: "/api/ddd"
+    PARTS: ["part3", "part4"]
+
