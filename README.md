@@ -30,3 +30,6 @@
                 - "9999:9999"
     ```
 6. 执行`docker compose up -d`
+
+# 参考资料
+> [memogram](https://github.com/usememos/telegram-integration)
